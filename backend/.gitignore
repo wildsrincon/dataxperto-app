@@ -5,6 +5,7 @@
 .venv/
 env/
 venv/
+dataxperto/
 
 # Python specific
 __pycache__/
