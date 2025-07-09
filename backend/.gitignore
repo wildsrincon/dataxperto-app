@@ -1,0 +1,44 @@
+# Idea
+.idea/
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+
+# IDE specific (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Operating System specific
+.DS_Store
+Thumbs.db
+
+# Database files (if using SQLite or similar local databases)
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+
+# Sensitive files (e.g., environment variables, configuration files)
+.env
+config.ini
+secrets.json
